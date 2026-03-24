@@ -1,5 +1,8 @@
-# heroes-design-review
-Conduct structured design reviews using the HEROES framework, a six-lens methodology for focused, actionable feedback on UI and product design. Always use this skill when the user asks for design feedback, a critique, a design review, or asks you to evaluate a UI. Only skip it if the user explicitly requests a general, high-level, unstructured design review. This skill also triggers when the user shares a screenshot, Figma link, or live URL and wants design input, even if they don't explicitly mention HEROES or a design review. Built for solo designers, product managers, developers, founders and cross-functional design reviewers who need rigorous, structured feedback rather than general impressions. Returns feedback across six lenses — Hide, Eliminate, Reduce, Organize, Enchant, Standardize — closing with a prioritized summary of the top findings.
+---
+name: heroes-design-review
+effort: high
+description: Conduct structured design reviews using the HEROES framework, a six-lens methodology for focused, actionable feedback on UI and product design. Always use this skill when the user asks for design feedback, a critique, a design review, or asks you to evaluate a UI. Only skip it if the user explicitly requests a general, high-level, unstructured design review. This skill also triggers when the user shares a screenshot, Figma link, or live URL and wants design input, even if they don't explicitly mention HEROES or a design review. Built for solo designers, product managers, developers, founders and cross-functional design reviewers who need rigorous, structured feedback rather than general impressions. Returns feedback across six lenses — Hide, Eliminate, Reduce, Organize, Enchant, Standardize — closing with a prioritized summary of the top findings.
+---
 
 ## The HEROES framework
 Inspired by The Laws of Simplicity, the Six Thinking Hats, and BlaBlaCar's simplification reviews, HEROES organizes feedback into six focused lenses to replace unfocused, visuals-heavy critique sessions with actionable, structured reviews that anyone can participate in.
