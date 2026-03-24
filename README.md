@@ -18,7 +18,7 @@ Inspired by [The Laws of Simplicity](https://lawsofsimplicity.com/), the [Six Th
 | E | Enchant | Enchant users with moments of delight and trust |
 | S | Standardize | Standardize with platform/design system conventions |
 
-#### How it works
+## How it works
 Share a screenshot, a Figma link, or a live URL and ask for a design review. Claude will automatically apply the HEROES framework and return structured feedback across the six lenses, closing with a prioritized summary of the top three findings. You can also trigger the skill explicitly by typing:
 
 ```sh
@@ -27,9 +27,9 @@ Share a screenshot, a Figma link, or a live URL and ask for a design review. Cla
 
 This skill is actively maintained. Install it once and updates will be pulled automatically in the background, you don't need to do a thing.
 
-#### Designed for UI, not art direction
+## Designed for UI, not art direction
 HEROES is specifically focused on UI and product design. It's not the right tool if you're looking for feedback on art direction, brand identity, illustration, or visual aesthetics. The framework is built around usability, clarity, and convention, not creative expression.
 
-#### Credits
+## Credits
 Created by [David Bruggisser](https://db8r.design) — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
 Feedback and contributions are welcome.
