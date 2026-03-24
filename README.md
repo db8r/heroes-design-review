@@ -7,7 +7,7 @@ Install command coming soon
 ```
 
 ## The HEROES framework
-Inspired by The Laws of Simplicity, the Six Thinking Hats, and BlaBlaCar's simplification reviews, HEROES organizes feedback into six focused lenses to replace unfocused, visuals-heavy critique sessions with actionable, structured reviews that anyone can participate in.
+Inspired by [The Laws of Simplicity](https://lawsofsimplicity.com/), the [Six Thinking Hats](https://www.debonogroup.com/services/core-programs/six-thinking-hats/), and [BlaBlaCar's simplification reviews](https://www.youtube.com/watch?v=vPit2SqdaCo), HEROES organizes feedback into six focused lenses to replace unfocused, visuals-heavy critique sessions with actionable, structured reviews that anyone can participate in.
 
 | | Lens | Description |
 | :---: | :--- | :--- |
@@ -31,5 +31,5 @@ This skill is actively maintained. Install it once and updates will be pulled au
 HEROES is specifically focused on UI and product design. It's not the right tool if you're looking for feedback on art direction, brand identity, illustration, or visual aesthetics. The framework is built around usability, clarity, and convention, not creative expression.
 
 #### Credits
-Created by [David Bruggisser](https://db8r.design) — Licensed under CC BY-NC-SA 4.0<br>
+Created by [David Bruggisser](https://db8r.design) — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
 Feedback and contributions are welcome.
