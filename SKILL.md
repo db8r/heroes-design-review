@@ -20,7 +20,7 @@ Hide and Eliminate are distinct lenses and must be applied separately. Hide asks
 | E | Enchant | Does the design create delight, trust, or a moment of craft that earns loyalty? Where is an opportunity for delight, trust, or clarity? |
 | S | Standardize | What deviates from established patterns or the design system without a strong reason? What feels like a reinvention of the wheel? |
 
-For detailed guidance on applying each lens, including examples and edge cases, read `references/lenses.md` before starting a review.
+For complex interfaces or when a lens produces weak findings, consult `references/lenses.md` for deeper guidance.
 
 ## Input handling
 This skill accepts three input types. Regardless of input type:
@@ -57,7 +57,7 @@ If the design is self-evident — platform, user, and context are reasonably cle
 Work through H → E → R → O → E → S. For each lens:
 * Lead with the most significant finding
 * Be specific: name the element, explain the problem, suggest the direction (not necessarily the exact solution)
-* If a lens has no meaningful findings, say so briefly — don't invent issues
+* If a lens has no meaningful findings, state it in one sentence and move on — don't invent issues
 
 ### 3. Priority Summary
 After all six lenses, provide a ranked list of the top 3 findings with the most impact on the product's user experience. This helps the user know where to start.
