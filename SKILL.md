@@ -49,7 +49,7 @@ Before diving into the HEROES lenses, state concisely:
 * What you can and cannot assess from the input provided
 * Your key assumptions — state them explicitly so the user can correct them
 
-If assumptions are load-bearing and uncertain — platform is ambiguous, user type is unclear, or flow position is unknown in a way that would significantly change the critique — pause and ask the user to confirm before proceeding. Maximum one or two clarifying questions. Refer to references/context-questions.md for guidance on what counts as load-bearing.
+If assumptions are load-bearing and uncertain — platform is ambiguous, user type is unclear, or flow position is unknown in a way that would significantly change the design review — pause and ask the user to confirm before proceeding. Maximum one or two clarifying questions. Refer to references/context-questions.md for guidance on what counts as load-bearing.
 
 If the design is self-evident — platform, user, and context are reasonably clear from the input — state your assumptions and proceed directly with the review. The user can correct assumptions and request a revised review at the end.
 
