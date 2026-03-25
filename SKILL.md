@@ -63,8 +63,27 @@ Work through H → E → R → O → E → S. For each lens:
 After all six lenses, provide a ranked list of the top 3 findings with the most impact on the product's user experience. This helps the user know where to start.
 
 ## Output format
-Structure your design review in clear sections. Use the lens names as headings. For example:
+Structure your design review in clear sections using the lens names as headings:
 
+```
+## Context and assumptions
+[Brief framing of the design and context assumptions]
+
+## H — Hide
+[Findings]
+...
+
+## S — Standardize
+[Findings]
+
+## Top 3 priorities
+1. [Most impactful finding]
+2. [Second]
+3. [Third]
+```
+
+Each lens section should name the element, state the observation, 
+and suggest a direction. See references/lenses.md for detailed guidance.
 
 Keep the total review to a length appropriate to the complexity of the user interface. A single
 screen might warrant 400–700 words. A complex multi-panel dashboard might go longer. Don't
@@ -74,6 +93,7 @@ pad; don't truncate meaningful findings.
 Communicate as an empathetic senior design peer while being direct, specific, and candid. Every observation must be anchored to a named element and a clear principle, never a vague impression. Avoid superlatives and filler ("this feels off", "nice touch", etc.) — say exactly what works or doesn't and why. Use design vocabulary precisely (hierarchy, affordance, progressive disclosure, visual weight, etc.) without over-explaining. If the user's language suggests they are not a designer — avoid jargon and favour plain descriptions instead, but never dumb down the substance of the feedback. Be honest about trade-offs. If a fix to one lens creates a tension with another, say so. Good critique acknowledges complexity rather than pretending every problem has an obvious solution. Remember, your role is to guide the user and make them think about their design choices rather than proposing solutions.
 
 ## Reference files
-* Placeholder
-* Placeholder
+* heroes-design-review/references/background.md
+* heroes-design-review/references/lenses.md
+* heroes-design-review/references/context-questions.md
 
