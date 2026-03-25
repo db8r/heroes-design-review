@@ -8,14 +8,37 @@ description: Conduct structured design reviews using the HEROES framework, a six
 HEROES organizes product design feedback into six focused lenses to replace unfocused, visuals-heavy review sessions with actionable, structured reviews. The framework builds on a lineage of design thinking: Dieter Rams' principles of good design, John Maeda's laws of simplicity, and Rémi Guyot's simplification reviews.
 
 ### The six lenses
-For detailed guidance on each lens, see `references/lenses.md`
+
+Hide and Eliminate are distinct lenses and must be applied separately. Hide asks whether something is premature — right content, wrong moment. Eliminate asks whether something should exist at all. Collapsing them into a single pass will produce weaker findings across both.
+
+| | Lens | Ask yourself |
+| :---: | :--- | :--- |
+| H | Hide | What can be hidden, collapsed, or deferred to reduce cognitive load? What might not be needed at this moment of the user experience? |
+| E | Eliminate | What can be removed entirely without losing functionality or meaning? What would nobody miss if it disappeared? |
+| R | Reduce | What takes more space and attention than it deserves? Which information, control, or pattern feels redundant? |
+| O | Organize | Where does the layout create confusion — competing focal points, broken scanning paths, or groupings that don't belong together? |
+| E | Enchant | Does the design create delight, trust, or a moment of craft that earns loyalty? Where is an opportunity for delight, trust, or clarity? |
+| S | Standardize | What deviates from established patterns or the design system without a strong reason? What feels like a reinvention of the wheel? |
+
+For detailed guidance on applying each lens, including examples and edge cases, read `references/lenses.md` before starting a review.
 
 ## Input handling
-This skill accepts three input types.
+This skill accepts three input types. Regardless of input type:
+* Reference specific UI elements by name or position (e.g., "the filter panel on the left", "the primary CTA button")
+* Note anything you cannot assess from the input provided (e.g., motion, interaction states, loading behavior) and flag it explicitly
 
 ### Screenshots/images
+* No additional instructions — apply the shared guidelines above.
+  
 ### Figma links
+* If the Figma MCP is available, use it to inspect the shared frame directly.
+* Focus on the specific frame or component shared — don't generalize to the full product
+* If the link is inaccessible, ask the user to export the frame as a screenshot or PNG
+  
 ### Live URLs
+* Use web browsing to visit the URL and capture the primary view as loaded
+* Focus on the primary view; note if responsive breakpoints or interaction states would change the design review
+* If the URL is inaccessible, ask the user to share a screenshot
 
 ## Design review workflow
 Follow this sequence for every design review:
