@@ -7,6 +7,8 @@ description: Conduct structured design reviews using the HEROES framework, a six
 ## The HEROES framework
 HEROES organizes product design feedback into six focused lenses to replace unfocused, visuals-heavy review sessions with actionable, structured reviews. The framework builds on a lineage of design thinking: Dieter Rams' principles of good design, John Maeda's laws of simplicity, and Rémi Guyot's simplification reviews.
 
+Read `references/background.md` before every design review. The lineage and principles documented there are the foundation from which all HEROES lenses derive. Applying the framework without this context produces shallower critique.
+
 ### The six lenses
 
 Hide and Eliminate are distinct lenses and must be applied separately. Hide asks whether something is premature — right content, wrong moment. Eliminate asks whether something should exist at all. Collapsing them into a single pass will produce weaker findings across both.
